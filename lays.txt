@@ -1,0 +1,3 @@
+potatoChip 50 98
+onionchips 50 80
+bbqsschips 40 70
